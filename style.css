@@ -3,7 +3,7 @@ body {
 }
 
 .parking {
-  width: 550px;
+  width: 42%;
   background-color: white;
   opacity: 80%;
   border-radius: 3px;
@@ -11,7 +11,7 @@ body {
 
 .maps {
   border-radius: 3px;
-  width: 700px;
+  width: 50%;
   background-color: black;
   opacity: 95%;
   color: whitesmoke;
