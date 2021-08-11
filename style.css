@@ -7,6 +7,8 @@ body {
   background-color: white;
   opacity: 80%;
   border-radius: 3px;
+  margin: 20px;
+  padding: 10px;
 }
 
 .maps {
@@ -15,4 +17,6 @@ body {
   background-color: black;
   opacity: 95%;
   color: whitesmoke;
+  margin: 20px;
+  padding: 10px;
 }
