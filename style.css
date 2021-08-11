@@ -17,7 +17,7 @@
   background-color: white;
   opacity: 80%;
   border-radius: 3px;
-  margin: 20px;
+  margin: 5px;
   padding: 10px;
   max-width: fit-content;
   position: relative;
@@ -29,7 +29,7 @@
   background-color: black;
   opacity: 95%;
   color: whitesmoke;
-  margin: 20px;
+  margin: 5px;
   padding: 10px;
   position: relative;
 }
