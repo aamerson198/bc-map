@@ -36,3 +36,15 @@
   padding: 10px;
   position: relative;
 }
+
+@media (max-width: 600px) {
+  .maps {
+    width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .parking {
+    width: 80%;
+  }
+}
