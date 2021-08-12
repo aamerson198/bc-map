@@ -26,6 +26,22 @@
   position: relative;
 }
 
+h1 {
+  font-family: "Poppins", sans-serif;
+}
+
+h2 {
+  font-family: "Poppins", sans-serif;
+}
+
+h3 {
+  font-family: "Poppins", sans-serif;
+}
+
+p {
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: larger;
+}
 .maps {
   border-radius: 3px;
   width: 45%;
