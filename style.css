@@ -15,7 +15,7 @@
 .parking {
   width: 47%;
   background-color: white;
-  opacity: 80%;
+  opacity: 90%;
   border-style: solid;
   border-color: black;
   border-width: 1px;
@@ -46,5 +46,13 @@
 @media (max-width: 600px) {
   .parking {
     width: 80%;
+    opacity: 92%;
   }
 }
+
+/* @media (max-width: 600px) {
+  .hero-image {
+    opacity: 80%;
+    filter: brightness(50%);
+  }
+} */
